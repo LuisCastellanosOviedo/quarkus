@@ -1,0 +1,7 @@
+edu\lambda\TestLambda.class
+edu\lambda\InputObject.class
+META-INF\sisu\javax.inject.Named
+edu\lambda\ProcessingService.class
+edu\lambda\StreamLambda.class
+edu\lambda\UnusedLambda.class
+edu\lambda\OutputObject.class
